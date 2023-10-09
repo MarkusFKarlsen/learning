@@ -21,6 +21,7 @@ Example Images:
 <img src="example_images/2.png" width="400" alt="Login page">
 <img src="example_images/3.png" width="400" alt="Register page">
 <img src="example_images/4.png" width="400" alt="All images">
+<img src="example_images/7.png" width="400" alt="Submit image">
 <img src="example_images/5.png" width="400" alt="Sucessfully submitted image">
 <img src="example_images/6.png" width="400" alt="User Dashboard">
 
