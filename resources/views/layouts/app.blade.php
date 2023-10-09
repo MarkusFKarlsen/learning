@@ -29,7 +29,8 @@
 
             <!-- Page Content -->
             <div class="min-h-screen flex flex-col sm:justify-center items-center pt-6 sm:pt-0 bg-gray-100 dark:bg-gray-900">
-            <div class="w-full mx-auto max-w-xl mt-6 px-6 py-4 bg-white dark:bg-gray-800 shadow-md sm:rounded-lg">
+            <!-- <div class="w-full mx-auto max-w-2xl mt-6 px-6 py-4 bg-white dark:bg-gray-800 shadow-md sm:rounded-lg"> -->
+            <div class="overflow-hidden bg-white dark:bg-gray-800 py-24 sm:py-32 text-base font-semibold leading-7 text-white">
                 <main>
                     {{ $slot }}
                 </main>

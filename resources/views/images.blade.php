@@ -32,7 +32,7 @@
                 <tr>
                     <td>{{ $image->prompt }}</td>
                     <td>
-                        <img src="{{ asset('storage/' . $image->image_path) }}" alt="{{ $image->prompt }}">
+                        <img src="{{ asset('storage/' . $image->image_path) }}" alt="{{ $image->prompt }}"  width="500" height="500">
                     </td>
                     <td>{{$image->user->name}}</td>
                 </tr>
