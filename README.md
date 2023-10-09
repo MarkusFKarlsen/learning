@@ -16,6 +16,7 @@ Potential improvements:
 - Tags, filter out or search for specific tags, for example: "+flower" "+water", "-human" 
 
 Example Images:
+
 <img src="example_images/1.png" width="400" alt="Landing page">
 <img src="example_images/2.png" width="400" alt="Login page">
 <img src="example_images/3.png" width="400" alt="Register page">
